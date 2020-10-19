@@ -1,0 +1,40 @@
+.my-inp1{
+    padding: 10px 20px;
+    border: 1px solid rgba(121, 121, 121, 0.534);
+    border-radius: 5px;
+}
+
+.my-sel{
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: 1px solid rgba(119, 119, 119, 0.534);
+    border-radius: 5px;
+
+}
+
+::placeholder{
+    font-size: 18px;
+
+}
+
+.box{
+    position: relative;
+    top: 10%;
+    left:0;
+    height:300px;
+    box-shadow:  0px 3px 13px 0px rgba(50, 50, 50, 1);
+    background-color: #fff;
+}
+.fa-exchange-alt{
+    position: relative;
+    top:60%;
+    left: 30%;
+    color: #00b9ff;
+    font-size: 24px;
+}
+.row{
+    margin: auto;
+    padding: 0;
+    padding-right: 95px;
+    padding-left: 95px;
+}
